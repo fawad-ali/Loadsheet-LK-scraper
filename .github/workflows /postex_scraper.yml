@@ -3,7 +3,7 @@
 # Runs every day at 02:00 AM Pakistan time (21:00 UTC previous day)
 # so yesterday's loadsheets are always complete before we scrape.
 # ──────────────────────────────────────────────────────────────────
-name: PostEx Daily Loadsheet Scraper
+name: PostEx LK Daily Loadsheet Scraper
 on:
   schedule:
 #        ┌─ min  ┌─ hour (UTC)  ┌─ day  ┌─ month  ┌─ weekday
