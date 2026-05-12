@@ -1,0 +1,71 @@
+# .github/workflows/postex_scraper.yml
+# ──────────────────────────────────────────────────────────────────
+# Runs every day at 02:00 AM Pakistan time (21:00 UTC previous day)
+# so yesterday's loadsheets are always complete before we scrape.
+# ──────────────────────────────────────────────────────────────────
+name: PostEx Daily Loadsheet Scraper
+on:
+  schedule:
+    #        ┌─ min  ┌─ hour (UTC)  ┌─ day  ┌─ month  ┌─ weekday
+    - cron:  "0 21 * * *"   # 21:00 UTC = 02:00 PKT (UTC+5)
+  # Also allow manual trigger from GitHub UI for testing
+  workflow_dispatch:
+    inputs:
+      target_date_override:
+        description: "Override target date (YYYY-MM-DD). Leave blank for yesterday."
+        required: false
+        default: ""
+# ── THIS IS THE FIX FOR THE 403 ERROR ─────────────────────────────
+permissions:
+  contents: write
+# ──────────────────────────────────────────────────────────────────
+jobs:
+  scrape:
+    name: Scrape PostEx Loadsheets
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      # ── 1. Checkout repo ────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      # ── 2. Set up Python ────────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      # ── 3. Install Python dependencies ──────────────────────────
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install playwright requests
+          playwright install chromium
+          playwright install-deps chromium
+      # ── 4. Run scraper ──────────────────────────────────────────
+      - name: Run PostEx scraper
+        env:
+          POSTEX_USERNAME:    ${{ secrets.POSTEX_USERNAME }}
+          POSTEX_PASSWORD:    ${{ secrets.POSTEX_PASSWORD }}
+          N8N_WEBHOOK_URL:    ${{ secrets.N8N_WEBHOOK_URL }}        # optional
+          DATE_OVERRIDE:      ${{ github.event.inputs.target_date_override }}
+        run: python scraper.py
+      # ── 5. Upload JSON as GitHub artifact (30-day retention) ────
+      - name: Upload loadsheet data as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: loadsheet-${{ github.run_id }}
+          path: data/loadsheet_*.json
+          retention-days: 30
+      # ── 6. Commit data file back to repo ────────────────────────
+      #   N8N can then fetch the raw file via GitHub's raw URL:
+      #   https://raw.githubusercontent.com/<org>/<repo>/main/data/loadsheet_YYYY-MM-DD.json
+      - name: Commit data to repository
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # Only commit if there is something new
+          git diff --cached --quiet || git commit -m "chore: loadsheet data $(date -u +%Y-%m-%d)"
+          git push
