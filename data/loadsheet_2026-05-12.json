@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-05-12",
+  "target_date": "May 12, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-FKA4U195133",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "77263.00",
+        "order_ref_numbers": [
+          "LK-4238",
+          "LK-4241",
+          "LK-4245",
+          "LK-4254",
+          "LK-4255",
+          "LK-4256",
+          "LK-4259",
+          "LK-4260",
+          "LK-4261",
+          "LK-4263",
+          "LK-4264",
+          "LK-4265"
+        ]
+      }
+    }
+  ]
+}
