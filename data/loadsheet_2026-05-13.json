@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-05-13",
+  "target_date": "May 13, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-2M5L0129306",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "63930.00",
+        "order_ref_numbers": [
+          "LK-4258",
+          "LK-4266",
+          "LK-4267",
+          "LK-4268",
+          "LK-4269",
+          "LK-4270",
+          "LK-4271",
+          "LK-4272",
+          "LK-4273",
+          "LK-4274",
+          "LK-4276",
+          "LK-4277"
+        ]
+      }
+    }
+  ]
+}
