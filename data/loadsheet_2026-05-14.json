@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-05-14",
+  "target_date": "May 14, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-2A858DD119262227",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "84433.00",
+        "order_ref_numbers": [
+          "LK-4202",
+          "LK-4211",
+          "LK-4278",
+          "LK-4279",
+          "LK-4281",
+          "LK-4282",
+          "LK-4283",
+          "LK-4285",
+          "LK-4286",
+          "LK-4287"
+        ]
+      }
+    }
+  ]
+}
