@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-15",
+  "target_date": "May 15, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-SLJBB253887",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "32947.00",
+        "order_ref_numbers": [
+          "LK-4288",
+          "LK-4289",
+          "LK-4290",
+          "LK-4291",
+          "LK-4293",
+          "LK-4296",
+          "LK-4297",
+          "LK-4298",
+          "LK-4299"
+        ]
+      }
+    }
+  ]
+}
