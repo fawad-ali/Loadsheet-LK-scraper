@@ -1,0 +1,37 @@
+{
+  "scrape_date": "2026-05-18",
+  "target_date": "May 18, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-WYH4W620628",
+      "summary": {
+        "total_orders": 22,
+        "total_invoice_payment": "135317.00",
+        "order_ref_numbers": [
+          "LK-4322",
+          "LK-4292",
+          "LK-4309",
+          "LK-4310",
+          "LK-4311",
+          "LK-4312",
+          "LK-4313",
+          "LK-4314",
+          "LK-4315",
+          "LK-4317",
+          "LK-4318",
+          "LK-4319",
+          "LK-4320",
+          "LK-4321",
+          "LK-4323",
+          "LK-4324",
+          "LK-4326",
+          "LK-4328",
+          "LK-4329",
+          "LK-4330",
+          "LK-4331",
+          "LK-4333"
+        ]
+      }
+    }
+  ]
+}
