@@ -1,0 +1,26 @@
+{
+  "scrape_date": "2026-05-19",
+  "target_date": "May 19, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-VT285281540",
+      "summary": {
+        "total_orders": 11,
+        "total_invoice_payment": "98745.00",
+        "order_ref_numbers": [
+          "LK-4316",
+          "LK-4295",
+          "LK-4334",
+          "LK-4335",
+          "LK-4337",
+          "LK-4338",
+          "LK-4340",
+          "LK-4341",
+          "LK-4344",
+          "LK-4345",
+          "LK-4346"
+        ]
+      }
+    }
+  ]
+}
