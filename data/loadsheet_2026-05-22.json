@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2026-05-22",
+  "target_date": "May 22, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-EBIFI238652",
+      "summary": {
+        "total_orders": 6,
+        "total_invoice_payment": "58400.00",
+        "order_ref_numbers": [
+          "LK-4262",
+          "LK-4342",
+          "LK-4351",
+          "LK-4371",
+          "LK-4374",
+          "LK-4375"
+        ]
+      }
+    }
+  ]
+}
