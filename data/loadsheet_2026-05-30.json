@@ -1,0 +1,39 @@
+{
+  "scrape_date": "2026-05-30",
+  "target_date": "May 30, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-4YSSS762221",
+      "summary": {
+        "total_orders": 24,
+        "total_invoice_payment": "64226.56",
+        "order_ref_numbers": [
+          "IM-41657",
+          "IM-41567",
+          "IM-41709",
+          "IM-41741",
+          "LK-4417",
+          "IM-41654",
+          "IM-41682",
+          "IM-41685",
+          "IM-41688",
+          "IM-41695",
+          "IM-41700",
+          "IM-41702",
+          "IM-41706",
+          "IM-41707",
+          "IM-41712",
+          "IM-41722",
+          "IM-41729",
+          "IM-41737",
+          "IM-41738",
+          "IM-41739",
+          "IM-41751",
+          "IM-41770",
+          "IM-41849",
+          "IM-41965"
+        ]
+      }
+    }
+  ]
+}
