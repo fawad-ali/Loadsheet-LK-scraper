@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-06-01",
+  "target_date": "Jun 1, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-JK4VP335459",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "73348.00",
+        "order_ref_numbers": [
+          "LK-4405",
+          "LK-4430",
+          "LK-4431",
+          "LK-4432",
+          "LK-4433",
+          "LK-4434",
+          "LK-4435",
+          "LK-4436",
+          "LK-4437",
+          "LK-4438",
+          "LK-4439",
+          "LK-4440"
+        ]
+      }
+    }
+  ]
+}
