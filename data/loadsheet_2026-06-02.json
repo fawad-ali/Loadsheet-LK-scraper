@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-06-02",
+  "target_date": "Jun 2, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-ASSEQ343603",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "45348.00",
+        "order_ref_numbers": [
+          "LK-4421",
+          "LK-4429",
+          "LK-4442",
+          "LK-4443",
+          "LK-4444",
+          "LK-4445",
+          "LK-4446"
+        ]
+      }
+    }
+  ]
+}
