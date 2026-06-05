@@ -1,0 +1,23 @@
+{
+  "scrape_date": "2026-06-05",
+  "target_date": "Jun 5, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-VNKOT935051",
+      "summary": {
+        "total_orders": 8,
+        "total_invoice_payment": "33899.00",
+        "order_ref_numbers": [
+          "LK-4470",
+          "LK-4471",
+          "LK-4473",
+          "LK-4477",
+          "LK-4478",
+          "LK-4479",
+          "LK-4480",
+          "LK-4481"
+        ]
+      }
+    }
+  ]
+}
