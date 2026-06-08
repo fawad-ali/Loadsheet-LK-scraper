@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2026-06-08",
+  "target_date": "Jun 8, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-OGXHO693184",
+      "summary": {
+        "total_orders": 6,
+        "total_invoice_payment": "21097.00",
+        "order_ref_numbers": [
+          "LK-4249",
+          "LK-4489",
+          "LK-4490",
+          "LK-4492",
+          "LK-4493",
+          "LK-4494"
+        ]
+      }
+    }
+  ]
+}
