@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-06-09",
+  "target_date": "Jun 9, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-1N8H8125302",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "42946.00",
+        "order_ref_numbers": [
+          "LK-4497",
+          "LK-4498",
+          "LK-4499",
+          "LK-4500",
+          "LK-4501",
+          "LK-4502",
+          "LK-4503"
+        ]
+      }
+    }
+  ]
+}
