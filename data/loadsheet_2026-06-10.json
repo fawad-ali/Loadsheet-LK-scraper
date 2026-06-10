@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-06-10",
+  "target_date": "Jun 10, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-Z2R2G617004",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "41244.00",
+        "order_ref_numbers": [
+          "LK-4504",
+          "LK-4505",
+          "LK-4506",
+          "LK-4507",
+          "LK-4508",
+          "LK-4509",
+          "LK-4510",
+          "LK-4511",
+          "LK-4512"
+        ]
+      }
+    }
+  ]
+}
