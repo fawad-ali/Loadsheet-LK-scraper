@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2026-06-11",
+  "target_date": "Jun 11, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-TPGFB129521",
+      "summary": {
+        "total_orders": 6,
+        "total_invoice_payment": "27499.00",
+        "order_ref_numbers": [
+          "LK-4513",
+          "LK-4514",
+          "LK-4515",
+          "LK-4517",
+          "LK-4518",
+          "LK-4519"
+        ]
+      }
+    }
+  ]
+}
