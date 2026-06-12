@@ -1,0 +1,20 @@
+{
+  "scrape_date": "2026-06-12",
+  "target_date": "Jun 12, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-TQH95280470",
+      "summary": {
+        "total_orders": 5,
+        "total_invoice_payment": "33550.00",
+        "order_ref_numbers": [
+          "LK-4520",
+          "LK-4522",
+          "LK-4523",
+          "LK-4524",
+          "LK-4525"
+        ]
+      }
+    }
+  ]
+}
