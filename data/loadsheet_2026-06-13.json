@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-06-13",
+  "target_date": "Jun 13, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-6GV30116082",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "49099.00",
+        "order_ref_numbers": [
+          "LK-4391",
+          "LK-4521",
+          "LK-4526",
+          "LK-4528",
+          "LK-4530",
+          "LK-4531",
+          "LK-4533"
+        ]
+      }
+    }
+  ]
+}
