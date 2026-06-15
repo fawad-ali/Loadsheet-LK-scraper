@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-06-15",
+  "target_date": "Jun 15, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-8W4S8521164",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "92861.00",
+        "order_ref_numbers": [
+          "LK-4527",
+          "LK-4534",
+          "LK-4535",
+          "LK-4536",
+          "LK-4537",
+          "LK-4538",
+          "LK-4539",
+          "LK-4540",
+          "LK-4541",
+          "LK-4542",
+          "LK-4543",
+          "LK-4544"
+        ]
+      }
+    }
+  ]
+}
