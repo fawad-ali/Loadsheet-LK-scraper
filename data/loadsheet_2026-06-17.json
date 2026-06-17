@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2026-06-17",
+  "target_date": "Jun 17, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-6RMWT134059",
+      "summary": {
+        "total_orders": 6,
+        "total_invoice_payment": "18181.00",
+        "order_ref_numbers": [
+          "LK-4519",
+          "LK-4554",
+          "LK-4555",
+          "LK-4556",
+          "LK-4557",
+          "LK-4559"
+        ]
+      }
+    }
+  ]
+}
