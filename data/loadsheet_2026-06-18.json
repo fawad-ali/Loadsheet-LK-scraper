@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-06-18",
+  "target_date": "Jun 18, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-J3MSJ785848",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "38719.00",
+        "order_ref_numbers": [
+          "LK-4560",
+          "LK-4561",
+          "LK-4562",
+          "LK-4563",
+          "LK-4564",
+          "LK-4565",
+          "LK-4566"
+        ]
+      }
+    }
+  ]
+}
