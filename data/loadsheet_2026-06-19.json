@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-06-19",
+  "target_date": "Jun 19, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-TLHTR940713",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "31746.00",
+        "order_ref_numbers": [
+          "LK-4567",
+          "LK-4568",
+          "LK-4569",
+          "LK-4570",
+          "LK-4571",
+          "LK-4572",
+          "LK-4573"
+        ]
+      }
+    }
+  ]
+}
