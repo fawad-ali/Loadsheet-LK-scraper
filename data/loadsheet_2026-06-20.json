@@ -1,0 +1,20 @@
+{
+  "scrape_date": "2026-06-20",
+  "target_date": "Jun 20, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-UVASI546543",
+      "summary": {
+        "total_orders": 5,
+        "total_invoice_payment": "28898.00",
+        "order_ref_numbers": [
+          "LK-4575",
+          "LK-4576",
+          "LK-4577",
+          "LK-4578",
+          "LK-4580"
+        ]
+      }
+    }
+  ]
+}
