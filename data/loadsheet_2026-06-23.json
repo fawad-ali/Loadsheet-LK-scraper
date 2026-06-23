@@ -1,0 +1,34 @@
+{
+  "scrape_date": "2026-06-23",
+  "target_date": "Jun 23, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-H24QB741310",
+      "summary": {
+        "total_orders": 19,
+        "total_invoice_payment": "147819.00",
+        "order_ref_numbers": [
+          "LK-4433",
+          "LK-4574",
+          "LK-4581",
+          "LK-4582",
+          "LK-4584",
+          "LK-4585",
+          "LK-4586",
+          "LK-4587",
+          "LK-4588",
+          "LK-4589",
+          "LK-4590",
+          "LK-4592",
+          "LK-4593",
+          "LK-4594",
+          "LK-4595",
+          "LK-4596",
+          "LK-4597",
+          "LK-4598",
+          "LK-4599"
+        ]
+      }
+    }
+  ]
+}
