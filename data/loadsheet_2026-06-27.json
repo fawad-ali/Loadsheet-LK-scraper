@@ -1,0 +1,28 @@
+{
+  "scrape_date": "2026-06-27",
+  "target_date": "Jun 27, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-AVJV2401126",
+      "summary": {
+        "total_orders": 13,
+        "total_invoice_payment": "61836.00",
+        "order_ref_numbers": [
+          "LK-4432",
+          "LK-4606",
+          "LK-4607",
+          "LK-4608",
+          "LK-4609",
+          "LK-4610",
+          "LK-4612",
+          "LK-4614",
+          "LK-4615",
+          "LK-4616",
+          "LK-4617",
+          "LK-4619",
+          "LK-4620"
+        ]
+      }
+    }
+  ]
+}
