@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-06-29",
+  "target_date": "Jun 29, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-XAOEX859793",
+      "summary": {
+        "total_orders": 15,
+        "total_invoice_payment": "52241.00",
+        "order_ref_numbers": [
+          "LK-4624",
+          "LK-4625",
+          "LK-4626",
+          "LK-4627",
+          "LK-4628",
+          "LK-4629",
+          "LK-4630",
+          "LK-4631",
+          "LK-4632",
+          "LK-4633",
+          "LK-4634",
+          "LK-4635",
+          "LK-4636",
+          "LK-4637",
+          "LK-4638"
+        ]
+      }
+    }
+  ]
+}
