@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-06-30",
+  "target_date": "Jun 30, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-IUWMP515153",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "21232.00",
+        "order_ref_numbers": [
+          "LK-4639",
+          "LK-4641",
+          "LK-4643",
+          "LK-4644",
+          "LK-4645",
+          "LK-4646",
+          "LK-4647"
+        ]
+      }
+    }
+  ]
+}
