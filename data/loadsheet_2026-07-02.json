@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-07-02",
+  "target_date": "Jul 2, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-HAV4M315648",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "26681.00",
+        "order_ref_numbers": [
+          "LK-4564",
+          "LK-4570",
+          "LK-4651",
+          "LK-4652",
+          "LK-4653",
+          "LK-4654",
+          "LK-4656"
+        ]
+      }
+    }
+  ]
+}
