@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-07-03",
+  "target_date": "Jul 3, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-O7W2T694861",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "44246.00",
+        "order_ref_numbers": [
+          "LK-4657",
+          "LK-4658",
+          "LK-4659",
+          "LK-4660",
+          "LK-4661",
+          "LK-4662",
+          "LK-4663",
+          "LK-4664",
+          "LK-4665",
+          "LK-4666"
+        ]
+      }
+    }
+  ]
+}
