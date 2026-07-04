@@ -1,0 +1,19 @@
+{
+  "scrape_date": "2026-07-04",
+  "target_date": "Jul 4, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-59HMR444035",
+      "summary": {
+        "total_orders": 4,
+        "total_invoice_payment": "26345.00",
+        "order_ref_numbers": [
+          "LK-4668",
+          "LK-4669",
+          "LK-4671",
+          "LK-4673"
+        ]
+      }
+    }
+  ]
+}
