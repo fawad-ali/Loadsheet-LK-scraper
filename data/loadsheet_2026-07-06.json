@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-07-06",
+  "target_date": "Jul 6, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-Q40ZH248177",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "54045.00",
+        "order_ref_numbers": [
+          "LK-4674",
+          "LK-4675",
+          "LK-4676",
+          "LK-4677",
+          "LK-4678",
+          "LK-4679",
+          "LK-4680",
+          "LK-4681",
+          "LK-4682",
+          "LK-4683",
+          "LK-4684",
+          "LK-4685"
+        ]
+      }
+    }
+  ]
+}
