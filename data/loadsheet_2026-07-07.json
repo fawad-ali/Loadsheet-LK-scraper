@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-07-07",
+  "target_date": "Jul 7, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-ZFN4X853882",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "40394.00",
+        "order_ref_numbers": [
+          "LK-4686",
+          "LK-4687",
+          "LK-4688",
+          "LK-4689",
+          "LK-4690",
+          "LK-4692",
+          "LK-4693",
+          "LK-4694",
+          "LK-4695"
+        ]
+      }
+    }
+  ]
+}
