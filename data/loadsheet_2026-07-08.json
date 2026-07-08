@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-07-08",
+  "target_date": "Jul 8, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-DT1PW703648",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "31965.00",
+        "order_ref_numbers": [
+          "LK-4696",
+          "LK-4697",
+          "LK-4699",
+          "LK-4700",
+          "LK-4702",
+          "LK-4703",
+          "LK-4704"
+        ]
+      }
+    }
+  ]
+}
