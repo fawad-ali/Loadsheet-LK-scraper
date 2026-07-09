@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-07-09",
+  "target_date": "Jul 9, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-PB9T9232995",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "50742.00",
+        "order_ref_numbers": [
+          "LK-4630",
+          "LK-4705",
+          "LK-4706",
+          "LK-4707",
+          "LK-4708",
+          "LK-4709",
+          "LK-4710",
+          "LK-4711",
+          "LK-4712"
+        ]
+      }
+    }
+  ]
+}
