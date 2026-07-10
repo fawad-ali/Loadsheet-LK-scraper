@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-07-10",
+  "target_date": "Jul 10, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-AWU1V514951",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "32996.00",
+        "order_ref_numbers": [
+          "LK-4715",
+          "LK-4716",
+          "LK-4717",
+          "LK-4718",
+          "LK-4719",
+          "LK-4720",
+          "LK-4722"
+        ]
+      }
+    }
+  ]
+}
