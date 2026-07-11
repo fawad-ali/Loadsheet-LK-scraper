@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-07-11",
+  "target_date": "Jul 11, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-MZURL143441",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "47647.00",
+        "order_ref_numbers": [
+          "LK-4670",
+          "LK-4713",
+          "LK-4723",
+          "LK-4724",
+          "LK-4727",
+          "LK-4728",
+          "LK-4729",
+          "LK-4730",
+          "LK-4732",
+          "LK-4734",
+          "LK-4735",
+          "LK-4736"
+        ]
+      }
+    }
+  ]
+}
