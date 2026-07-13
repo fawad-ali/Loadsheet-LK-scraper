@@ -1,0 +1,29 @@
+{
+  "scrape_date": "2026-07-13",
+  "target_date": "Jul 13, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-ZU2KB908526",
+      "summary": {
+        "total_orders": 14,
+        "total_invoice_payment": "97075.00",
+        "order_ref_numbers": [
+          "LK-4667",
+          "LK-4714",
+          "LK-4750",
+          "LK-4737",
+          "LK-4739",
+          "LK-4740",
+          "LK-4741",
+          "LK-4742",
+          "LK-4743",
+          "LK-4744",
+          "LK-4745",
+          "LK-4748",
+          "LK-4749",
+          "LK-4751"
+        ]
+      }
+    }
+  ]
+}
