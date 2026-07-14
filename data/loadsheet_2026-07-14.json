@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-07-14",
+  "target_date": "Jul 14, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-E8FVV341804",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "51645.00",
+        "order_ref_numbers": [
+          "LK-4753",
+          "LK-4754",
+          "LK-4755",
+          "LK-4757",
+          "LK-4758",
+          "LK-4759",
+          "LK-4760",
+          "LK-4762",
+          "LK-4763",
+          "LK-4764"
+        ]
+      }
+    }
+  ]
+}
