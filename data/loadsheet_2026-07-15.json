@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-07-15",
+  "target_date": "Jul 15, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-K7BZO630645",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "42477.00",
+        "order_ref_numbers": [
+          "LK-4765",
+          "LK-4766",
+          "LK-4767",
+          "LK-4768",
+          "LK-4770",
+          "LK-4775",
+          "LK-4776",
+          "LK-4777",
+          "LK-4778",
+          "LK-4779"
+        ]
+      }
+    }
+  ]
+}
