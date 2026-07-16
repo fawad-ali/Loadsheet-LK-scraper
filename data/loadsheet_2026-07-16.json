@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-07-16",
+  "target_date": "Jul 16, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-5JF8O509627",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "61171.00",
+        "order_ref_numbers": [
+          "LK-4780",
+          "LK-4781",
+          "LK-4783",
+          "LK-4784",
+          "LK-4786",
+          "LK-4790",
+          "LK-4791"
+        ]
+      }
+    }
+  ]
+}
