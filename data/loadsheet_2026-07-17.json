@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-07-17",
+  "target_date": "Jul 17, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-6MQ2F725845",
+      "summary": {
+        "total_orders": 15,
+        "total_invoice_payment": "138989.00",
+        "order_ref_numbers": [
+          "LK-4613",
+          "LK-4725",
+          "LK-4726",
+          "LK-4752",
+          "LK-4756",
+          "LK-4773",
+          "LK-4785",
+          "LK-4792",
+          "LK-4793",
+          "LK-4794",
+          "LK-4795",
+          "LK-4796",
+          "LK-4797",
+          "LK-4798",
+          "LK-4799"
+        ]
+      }
+    }
+  ]
+}
