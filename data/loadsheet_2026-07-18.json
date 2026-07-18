@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-07-18",
+  "target_date": "Jul 18, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-ESN88426320",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "126533.00",
+        "order_ref_numbers": [
+          "LK-4672",
+          "LK-4746",
+          "LK-4761",
+          "LK-4800",
+          "LK-4801",
+          "LK-4802",
+          "LK-4803",
+          "LK-4804",
+          "LK-4806",
+          "LK-4807"
+        ]
+      }
+    }
+  ]
+}
