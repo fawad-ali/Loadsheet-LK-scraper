@@ -1,0 +1,32 @@
+{
+  "scrape_date": "2026-07-20",
+  "target_date": "Jul 20, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-D5JXF836862",
+      "summary": {
+        "total_orders": 17,
+        "total_invoice_payment": "94153.00",
+        "order_ref_numbers": [
+          "LK-4808",
+          "LK-4809",
+          "LK-4810",
+          "LK-4811",
+          "LK-4812",
+          "LK-4813",
+          "LK-4814",
+          "LK-4815",
+          "LK-4816",
+          "LK-4817",
+          "LK-4818",
+          "LK-4819",
+          "LK-4820",
+          "LK-4822",
+          "LK-4825",
+          "LK-4826",
+          "LK-4827"
+        ]
+      }
+    }
+  ]
+}
