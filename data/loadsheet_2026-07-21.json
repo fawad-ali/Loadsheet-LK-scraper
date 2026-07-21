@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-07-21",
+  "target_date": "Jul 21, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-AM3KE202585",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "46895.00",
+        "order_ref_numbers": [
+          "LK-4821",
+          "LK-4828",
+          "LK-4829",
+          "LK-4830",
+          "LK-4831",
+          "LK-4832",
+          "LK-4833",
+          "LK-4834",
+          "LK-4837",
+          "LK-4839"
+        ]
+      }
+    }
+  ]
+}
