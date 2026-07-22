@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-07-22",
+  "target_date": "Jul 22, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-JNV76323504",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "54746.00",
+        "order_ref_numbers": [
+          "LK-4629",
+          "LK-4805",
+          "LK-4840",
+          "LK-4841",
+          "LK-4842",
+          "LK-4844",
+          "LK-4845",
+          "LK-4847",
+          "LK-4848",
+          "LK-4849",
+          "LK-4850",
+          "LK-4851"
+        ]
+      }
+    }
+  ]
+}
