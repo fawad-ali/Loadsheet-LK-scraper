@@ -1,0 +1,23 @@
+{
+  "scrape_date": "2026-07-24",
+  "target_date": "Jul 24, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-Z1H7X546131",
+      "summary": {
+        "total_orders": 8,
+        "total_invoice_payment": "26697.00",
+        "order_ref_numbers": [
+          "LK-4870",
+          "LK-4864",
+          "LK-4858",
+          "LK-4865",
+          "LK-4866",
+          "LK-4868",
+          "LK-4871",
+          "LK-4873"
+        ]
+      }
+    }
+  ]
+}
