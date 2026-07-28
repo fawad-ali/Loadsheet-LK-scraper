@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-07-28",
+  "target_date": "Jul 28, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-E1LQ5132366",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "63744.00",
+        "order_ref_numbers": [
+          "LK-4886",
+          "LK-4898",
+          "LK-4899",
+          "LK-4900",
+          "LK-4901",
+          "LK-4902",
+          "LK-4903"
+        ]
+      }
+    }
+  ]
+}
