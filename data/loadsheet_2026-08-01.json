@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-08-01",
+  "target_date": "Aug 1, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-0TODT315978",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "40596.00",
+        "order_ref_numbers": [
+          "LK-4924",
+          "LK-4936",
+          "LK-4938",
+          "LK-4939",
+          "LK-4940",
+          "LK-4941",
+          "LK-4942"
+        ]
+      }
+    }
+  ]
+}
