@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-08-03",
+  "target_date": "Aug 3, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-K7HOV694446",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "33994.00",
+        "order_ref_numbers": [
+          "LK-4943",
+          "LK-4944",
+          "LK-4945",
+          "LK-4947",
+          "LK-4949",
+          "LK-4950",
+          "LK-4951",
+          "LK-4952",
+          "LK-4953",
+          "LK-4954",
+          "LK-4956",
+          "LK-4957"
+        ]
+      }
+    }
+  ]
+}
