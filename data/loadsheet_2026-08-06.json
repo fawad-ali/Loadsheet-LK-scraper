@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-08-06",
+  "target_date": "Aug 6, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-M3KLP261990",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "57375.00",
+        "order_ref_numbers": [
+          "LK-4946",
+          "LK-4980",
+          "LK-4981",
+          "LK-4982",
+          "LK-4983",
+          "LK-4984",
+          "LK-4986"
+        ]
+      }
+    }
+  ]
+}
