@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-08-07",
+  "target_date": "Aug 7, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-DEQ1H935360",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "70427.00",
+        "order_ref_numbers": [
+          "LK-4987",
+          "LK-4988",
+          "LK-4989",
+          "LK-4990",
+          "LK-4991",
+          "LK-4992",
+          "LK-4993",
+          "LK-4994",
+          "LK-4995",
+          "LK-4996"
+        ]
+      }
+    }
+  ]
+}
