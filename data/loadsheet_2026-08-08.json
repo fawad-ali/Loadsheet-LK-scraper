@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-08-08",
+  "target_date": "Aug 8, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-YOIDZ113148",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "55025.00",
+        "order_ref_numbers": [
+          "LK-4997",
+          "LK-4998",
+          "LK-4999",
+          "LK-5000",
+          "LK-5001",
+          "LK-5002",
+          "LK-5003",
+          "LK-5005",
+          "LK-5006",
+          "LK-5009",
+          "LK-5010",
+          "LK-5011"
+        ]
+      }
+    }
+  ]
+}
