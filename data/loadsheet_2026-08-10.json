@@ -1,0 +1,35 @@
+{
+  "scrape_date": "2026-08-10",
+  "target_date": "Aug 10, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-JV4TG743668",
+      "summary": {
+        "total_orders": 20,
+        "total_invoice_payment": "114208.00",
+        "order_ref_numbers": [
+          "LK-5019",
+          "LK-5029",
+          "LK-5007",
+          "LK-5012",
+          "LK-5013",
+          "LK-5014",
+          "LK-5015",
+          "LK-5016",
+          "LK-5020",
+          "LK-5021",
+          "LK-5022",
+          "LK-5023",
+          "LK-5024",
+          "LK-5025",
+          "LK-5026",
+          "LK-5027",
+          "LK-5028",
+          "LK-5030",
+          "LK-5031",
+          "LK-5032"
+        ]
+      }
+    }
+  ]
+}
