@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-08-11",
+  "target_date": "Aug 11, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-57JZ8228583",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "36541.00",
+        "order_ref_numbers": [
+          "LK-5033",
+          "LK-5034",
+          "LK-5035",
+          "LK-5036",
+          "LK-5037",
+          "LK-5038",
+          "LK-5039",
+          "LK-5041",
+          "LK-5042"
+        ]
+      }
+    }
+  ]
+}
