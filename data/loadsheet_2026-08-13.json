@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-08-13",
+  "target_date": "Aug 13, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-O89CW706504",
+      "summary": {
+        "total_orders": 15,
+        "total_invoice_payment": "118890.00",
+        "order_ref_numbers": [
+          "LK-5043",
+          "LK-5056",
+          "LK-5052",
+          "LK-5053",
+          "LK-5054",
+          "LK-5055",
+          "LK-5058",
+          "LK-5059",
+          "LK-5060",
+          "LK-5061",
+          "LK-5062",
+          "LK-5063",
+          "LK-5064",
+          "LK-5065",
+          "LK-5066"
+        ]
+      }
+    }
+  ]
+}
