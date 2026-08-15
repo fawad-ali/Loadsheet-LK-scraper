@@ -1,0 +1,31 @@
+{
+  "scrape_date": "2026-08-15",
+  "target_date": "Aug 15, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-76Z8W286411",
+      "summary": {
+        "total_orders": 16,
+        "total_invoice_payment": "52928.00",
+        "order_ref_numbers": [
+          "LK-5057",
+          "LK-5067",
+          "LK-5068",
+          "LK-5070",
+          "LK-5071",
+          "LK-5072",
+          "LK-5073",
+          "LK-5074",
+          "LK-5075",
+          "LK-5077",
+          "LK-5078",
+          "LK-5079",
+          "LK-5080",
+          "LK-5081",
+          "LK-5082",
+          "LK-5084"
+        ]
+      }
+    }
+  ]
+}
