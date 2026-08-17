@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-08-17",
+  "target_date": "Aug 17, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-KFBOM254193",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "53744.00",
+        "order_ref_numbers": [
+          "LK-5085",
+          "LK-5087",
+          "LK-5089",
+          "LK-5090",
+          "LK-5091",
+          "LK-5092",
+          "LK-5093",
+          "LK-5094",
+          "LK-5095",
+          "LK-5096",
+          "LK-5100",
+          "LK-5101"
+        ]
+      }
+    }
+  ]
+}
