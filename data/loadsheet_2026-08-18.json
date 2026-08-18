@@ -1,0 +1,23 @@
+{
+  "scrape_date": "2026-08-18",
+  "target_date": "Aug 18, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-SSHYE148030",
+      "summary": {
+        "total_orders": 8,
+        "total_invoice_payment": "34244.00",
+        "order_ref_numbers": [
+          "LK-5102",
+          "LK-5103",
+          "LK-5105",
+          "LK-5106",
+          "LK-5107",
+          "LK-5108",
+          "LK-5110",
+          "LK-5111"
+        ]
+      }
+    }
+  ]
+}
