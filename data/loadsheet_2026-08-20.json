@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-08-20",
+  "target_date": "Aug 20, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-BVSX9549593",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "32281.00",
+        "order_ref_numbers": [
+          "LK-5088",
+          "LK-5120",
+          "LK-5123",
+          "LK-5124",
+          "LK-5125",
+          "LK-5126",
+          "LK-5127",
+          "LK-5129",
+          "LK-5130"
+        ]
+      }
+    }
+  ]
+}
