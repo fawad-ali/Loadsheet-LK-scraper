@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-08-21",
+  "target_date": "Aug 21, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-32P7J647335",
+      "summary": {
+        "total_orders": 15,
+        "total_invoice_payment": "80410.00",
+        "order_ref_numbers": [
+          "LK-5121",
+          "LK-5133",
+          "LK-5134",
+          "LK-5135",
+          "LK-5136",
+          "LK-5137",
+          "LK-5138",
+          "LK-5139",
+          "LK-5141",
+          "LK-5142",
+          "LK-5143",
+          "LK-5145",
+          "LK-5146",
+          "LK-5147",
+          "LK-5149"
+        ]
+      }
+    }
+  ]
+}
