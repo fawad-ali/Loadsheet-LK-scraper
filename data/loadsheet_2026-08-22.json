@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-08-22",
+  "target_date": "Aug 22, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-1JTES290017",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "21795.00",
+        "order_ref_numbers": [
+          "LK-5150",
+          "LK-5151",
+          "LK-5152",
+          "LK-5153",
+          "LK-5154",
+          "LK-5155",
+          "LK-5157"
+        ]
+      }
+    }
+  ]
+}
