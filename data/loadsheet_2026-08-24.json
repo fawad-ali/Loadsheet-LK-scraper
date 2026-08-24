@@ -1,0 +1,35 @@
+{
+  "scrape_date": "2026-08-24",
+  "target_date": "Aug 24, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-47WXK992374",
+      "summary": {
+        "total_orders": 20,
+        "total_invoice_payment": "79386.00",
+        "order_ref_numbers": [
+          "LK-5158",
+          "LK-5159",
+          "LK-5160",
+          "LK-5161",
+          "LK-5162",
+          "LK-5163",
+          "LK-5164",
+          "LK-5165",
+          "LK-5167",
+          "LK-5168",
+          "LK-5169",
+          "LK-5170",
+          "LK-5171",
+          "LK-5172",
+          "LK-5173",
+          "LK-5174",
+          "LK-5175",
+          "LK-5176",
+          "LK-5178",
+          "LK-5179"
+        ]
+      }
+    }
+  ]
+}
