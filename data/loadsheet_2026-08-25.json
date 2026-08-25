@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-08-25",
+  "target_date": "Aug 25, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-CMWP1645206",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "49495.00",
+        "order_ref_numbers": [
+          "LK-5144",
+          "LK-5177",
+          "LK-5180",
+          "LK-5182",
+          "LK-5183",
+          "LK-5184",
+          "LK-5187",
+          "LK-5188",
+          "LK-5189",
+          "LK-5190"
+        ]
+      }
+    }
+  ]
+}
