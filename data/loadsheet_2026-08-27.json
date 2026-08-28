@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-08-27",
+  "target_date": "Aug 27, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-C3UY8898186",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "36691.00",
+        "order_ref_numbers": [
+          "LK-5191",
+          "LK-5192",
+          "LK-5193",
+          "LK-5194",
+          "LK-5195",
+          "LK-5196",
+          "LK-5197",
+          "LK-5198",
+          "LK-5200",
+          "LK-5201"
+        ]
+      }
+    }
+  ]
+}
