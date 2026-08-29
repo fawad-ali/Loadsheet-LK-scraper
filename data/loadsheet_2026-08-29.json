@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-08-29",
+  "target_date": "Aug 29, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-W57U5626548",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "27198.00",
+        "order_ref_numbers": [
+          "LK-5211",
+          "LK-5213",
+          "LK-5214",
+          "LK-5215",
+          "LK-5216",
+          "LK-5217",
+          "LK-5218"
+        ]
+      }
+    }
+  ]
+}
