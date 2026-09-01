@@ -1,0 +1,31 @@
+{
+  "scrape_date": "2026-08-31",
+  "target_date": "Aug 31, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-4IH8P551333",
+      "summary": {
+        "total_orders": 16,
+        "total_invoice_payment": "98123.00",
+        "order_ref_numbers": [
+          "LK-5199",
+          "LK-5219",
+          "LK-5220",
+          "LK-5221",
+          "LK-5222",
+          "LK-5223",
+          "LK-5224",
+          "LK-5225",
+          "LK-5227",
+          "LK-5228",
+          "LK-5229",
+          "LK-5230",
+          "LK-5231",
+          "LK-5232",
+          "LK-5234",
+          "LK-5235"
+        ]
+      }
+    }
+  ]
+}
