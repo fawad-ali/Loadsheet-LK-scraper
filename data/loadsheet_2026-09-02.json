@@ -1,0 +1,35 @@
+{
+  "scrape_date": "2026-09-02",
+  "target_date": "Sep 2, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-CGH8P973418",
+      "summary": {
+        "total_orders": 20,
+        "total_invoice_payment": "114290.00",
+        "order_ref_numbers": [
+          "LK-5212",
+          "LK-5236",
+          "LK-5237",
+          "LK-5238",
+          "LK-5239",
+          "LK-5240",
+          "LK-5243",
+          "LK-5244",
+          "LK-5245",
+          "LK-5246",
+          "LK-5247",
+          "LK-5248",
+          "LK-5249",
+          "LK-5250",
+          "LK-5251",
+          "LK-5253",
+          "LK-5254",
+          "LK-5255",
+          "LK-5256",
+          "LK-5257"
+        ]
+      }
+    }
+  ]
+}
