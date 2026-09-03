@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-09-03",
+  "target_date": "Sep 3, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-QEJ06865429",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "40877.00",
+        "order_ref_numbers": [
+          "LK-5259",
+          "LK-5260",
+          "LK-5261",
+          "LK-5262",
+          "LK-5263",
+          "LK-5264",
+          "LK-5265",
+          "LK-5266",
+          "LK-5267",
+          "LK-5268"
+        ]
+      }
+    }
+  ]
+}
