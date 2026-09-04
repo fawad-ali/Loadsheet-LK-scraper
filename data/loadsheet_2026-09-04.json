@@ -1,0 +1,28 @@
+{
+  "scrape_date": "2026-09-04",
+  "target_date": "Sep 4, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-EL8N0208532",
+      "summary": {
+        "total_orders": 13,
+        "total_invoice_payment": "70100.00",
+        "order_ref_numbers": [
+          "LK-5269",
+          "LK-5270",
+          "LK-5271",
+          "LK-5272",
+          "LK-5273",
+          "LK-5274",
+          "LK-5275",
+          "LK-5276",
+          "LK-5277",
+          "LK-5278",
+          "LK-5279",
+          "LK-5280",
+          "LK-5281"
+        ]
+      }
+    }
+  ]
+}
