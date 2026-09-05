@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-09-05",
+  "target_date": "Sep 5, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-XUOCQ109883",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "48913.00",
+        "order_ref_numbers": [
+          "LK-5226",
+          "LK-5282",
+          "LK-5283",
+          "LK-5286",
+          "LK-5287",
+          "LK-5288",
+          "LK-5289",
+          "LK-5290",
+          "LK-5291"
+        ]
+      }
+    }
+  ]
+}
