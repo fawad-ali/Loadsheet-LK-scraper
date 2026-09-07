@@ -1,0 +1,31 @@
+{
+  "scrape_date": "2026-09-07",
+  "target_date": "Sep 7, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-KRYZ0330212",
+      "summary": {
+        "total_orders": 16,
+        "total_invoice_payment": "73512.00",
+        "order_ref_numbers": [
+          "LK-5293",
+          "LK-5292",
+          "LK-5294",
+          "LK-5295",
+          "LK-5296",
+          "LK-5297",
+          "LK-5299",
+          "LK-5301",
+          "LK-5302",
+          "LK-5303",
+          "LK-5304",
+          "LK-5305",
+          "LK-5307",
+          "LK-5308",
+          "LK-5309",
+          "LK-5310"
+        ]
+      }
+    }
+  ]
+}
