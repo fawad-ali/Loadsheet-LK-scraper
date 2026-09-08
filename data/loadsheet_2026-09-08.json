@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-09-08",
+  "target_date": "Sep 8, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-OJ0HS537090",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "47131.00",
+        "order_ref_numbers": [
+          "LK-5300",
+          "LK-5311",
+          "LK-5312",
+          "LK-5313",
+          "LK-5314",
+          "LK-5315",
+          "LK-5316",
+          "LK-5317",
+          "LK-5318",
+          "LK-5319",
+          "LK-5321",
+          "LK-5322"
+        ]
+      }
+    }
+  ]
+}
