@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-09-09",
+  "target_date": "Sep 9, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-TTWG1667242",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "22535.00",
+        "order_ref_numbers": [
+          "LK-5323",
+          "LK-5324",
+          "LK-5325",
+          "LK-5326",
+          "LK-5327",
+          "LK-5328",
+          "LK-5329"
+        ]
+      }
+    }
+  ]
+}
