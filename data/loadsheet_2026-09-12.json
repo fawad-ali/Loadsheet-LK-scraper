@@ -1,0 +1,23 @@
+{
+  "scrape_date": "2026-09-12",
+  "target_date": "Sep 12, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-WNQBN469502",
+      "summary": {
+        "total_orders": 8,
+        "total_invoice_payment": "44281.00",
+        "order_ref_numbers": [
+          "LK-5352",
+          "LK-5353",
+          "LK-5356",
+          "LK-5357",
+          "LK-5358",
+          "LK-5359",
+          "LK-5360",
+          "LK-5361"
+        ]
+      }
+    }
+  ]
+}
