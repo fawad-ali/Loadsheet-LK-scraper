@@ -1,0 +1,29 @@
+{
+  "scrape_date": "2026-09-14",
+  "target_date": "Sep 14, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-V8284267711",
+      "summary": {
+        "total_orders": 14,
+        "total_invoice_payment": "41168.00",
+        "order_ref_numbers": [
+          "LK-5362",
+          "LK-5363",
+          "LK-5364",
+          "LK-5365",
+          "LK-5366",
+          "LK-5367",
+          "LK-5368",
+          "LK-5369",
+          "LK-5370",
+          "LK-5371",
+          "LK-5372",
+          "LK-5373",
+          "LK-5374",
+          "LK-5375"
+        ]
+      }
+    }
+  ]
+}
