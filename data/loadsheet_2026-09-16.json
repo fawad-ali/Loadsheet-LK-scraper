@@ -1,0 +1,20 @@
+{
+  "scrape_date": "2026-09-16",
+  "target_date": "Sep 16, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-3SUU1957371",
+      "summary": {
+        "total_orders": 5,
+        "total_invoice_payment": "19383.00",
+        "order_ref_numbers": [
+          "LK-5389",
+          "LK-5390",
+          "LK-5391",
+          "LK-5392",
+          "LK-5394"
+        ]
+      }
+    }
+  ]
+}
