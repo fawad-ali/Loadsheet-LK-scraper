@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-09-18",
+  "target_date": "Sep 18, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-3G536931935",
+      "summary": {
+        "total_orders": 21,
+        "total_invoice_payment": "86003.00",
+        "order_ref_numbers": [
+          "LK-5395",
+          "LK-5396",
+          "LK-5397",
+          "LK-5398",
+          "LK-5399",
+          "LK-5400",
+          "LK-5401",
+          "LK-5402",
+          "LK-5403",
+          "LK-5404",
+          "LK-5405",
+          "LK-5406",
+          "LK-5407",
+          "LK-5408",
+          "LK-5409",
+          "LK-5410",
+          "LK-5412",
+          "LK-5413",
+          "LK-5414",
+          "LK-5415",
+          "LK-5416"
+        ]
+      }
+    }
+  ]
+}
