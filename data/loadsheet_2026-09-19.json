@@ -1,0 +1,20 @@
+{
+  "scrape_date": "2026-09-19",
+  "target_date": "Sep 19, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-BYGLR391223",
+      "summary": {
+        "total_orders": 5,
+        "total_invoice_payment": "31096.00",
+        "order_ref_numbers": [
+          "LK-5417",
+          "LK-5418",
+          "LK-5419",
+          "LK-5421",
+          "LK-5422"
+        ]
+      }
+    }
+  ]
+}
