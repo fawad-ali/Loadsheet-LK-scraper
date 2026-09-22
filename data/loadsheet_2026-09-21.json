@@ -1,0 +1,37 @@
+{
+  "scrape_date": "2026-09-21",
+  "target_date": "Sep 21, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-NEB7P832006",
+      "summary": {
+        "total_orders": 22,
+        "total_invoice_payment": "97169.00",
+        "order_ref_numbers": [
+          "LK-5423",
+          "LK-5424",
+          "LK-5425",
+          "LK-5426",
+          "LK-5427",
+          "LK-5428",
+          "LK-5429",
+          "LK-5431",
+          "LK-5432",
+          "LK-5433",
+          "LK-5434",
+          "LK-5435",
+          "LK-5436",
+          "LK-5437",
+          "LK-5438",
+          "LK-5439",
+          "LK-5440",
+          "LK-5441",
+          "LK-5442",
+          "LK-5443",
+          "LK-5444",
+          "LK-5446"
+        ]
+      }
+    }
+  ]
+}
