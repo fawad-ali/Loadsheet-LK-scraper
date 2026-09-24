@@ -1,0 +1,23 @@
+{
+  "scrape_date": "2026-09-24",
+  "target_date": "Sep 24, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-1XICZ361022",
+      "summary": {
+        "total_orders": 8,
+        "total_invoice_payment": "38746.00",
+        "order_ref_numbers": [
+          "LK-5471",
+          "LK-5473",
+          "LK-5474",
+          "LK-5478",
+          "LK-5479",
+          "LK-5480",
+          "LK-5481",
+          "LK-5482"
+        ]
+      }
+    }
+  ]
+}
