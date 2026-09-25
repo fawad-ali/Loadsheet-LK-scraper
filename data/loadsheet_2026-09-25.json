@@ -1,0 +1,34 @@
+{
+  "scrape_date": "2026-09-25",
+  "target_date": "Sep 25, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-H42A7706324",
+      "summary": {
+        "total_orders": 19,
+        "total_invoice_payment": "107869.00",
+        "order_ref_numbers": [
+          "LK-5445",
+          "LK-5476",
+          "LK-5483",
+          "LK-5484",
+          "LK-5485",
+          "LK-5486",
+          "LK-5487",
+          "LK-5488",
+          "LK-5489",
+          "LK-5490",
+          "LK-5491",
+          "LK-5492",
+          "LK-5493",
+          "LK-5494",
+          "LK-5495",
+          "LK-5496",
+          "LK-5497",
+          "LK-5498",
+          "LK-5499"
+        ]
+      }
+    }
+  ]
+}
