@@ -1,0 +1,20 @@
+{
+  "scrape_date": "2026-09-26",
+  "target_date": "Sep 26, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-H84NO320286",
+      "summary": {
+        "total_orders": 5,
+        "total_invoice_payment": "21996.00",
+        "order_ref_numbers": [
+          "LK-5500",
+          "LK-5501",
+          "LK-5502",
+          "LK-5503",
+          "LK-5504"
+        ]
+      }
+    }
+  ]
+}
