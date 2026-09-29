@@ -1,0 +1,37 @@
+{
+  "scrape_date": "2026-09-28",
+  "target_date": "Sep 28, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-XKPZT238866",
+      "summary": {
+        "total_orders": 22,
+        "total_invoice_payment": "102573.00",
+        "order_ref_numbers": [
+          "LK-5505",
+          "LK-5506",
+          "LK-5507",
+          "LK-5508",
+          "LK-5509",
+          "LK-5510",
+          "LK-5511",
+          "LK-5512",
+          "LK-5513",
+          "LK-5514",
+          "LK-5517",
+          "LK-5518",
+          "LK-5519",
+          "LK-5520",
+          "LK-5521",
+          "LK-5523",
+          "LK-5524",
+          "LK-5525",
+          "LK-5526",
+          "LK-5527",
+          "LK-5528",
+          "LK-5529"
+        ]
+      }
+    }
+  ]
+}
