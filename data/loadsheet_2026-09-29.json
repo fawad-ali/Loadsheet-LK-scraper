@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-09-29",
+  "target_date": "Sep 29, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-64B77561C0B62227",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "23082.00",
+        "order_ref_numbers": [
+          "LK-5530",
+          "LK-5531",
+          "LK-5532",
+          "LK-5533",
+          "LK-5534",
+          "LK-5535",
+          "LK-5536"
+        ]
+      }
+    }
+  ]
+}
