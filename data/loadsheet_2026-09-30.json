@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-09-30",
+  "target_date": "Sep 30, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-Y1UBS696747",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "71181.00",
+        "order_ref_numbers": [
+          "LK-5537",
+          "LK-5538",
+          "LK-5539",
+          "LK-5540",
+          "LK-5541",
+          "LK-5542",
+          "LK-5543",
+          "LK-5544",
+          "LK-5545",
+          "LK-5547",
+          "LK-5548",
+          "LK-5549"
+        ]
+      }
+    }
+  ]
+}
