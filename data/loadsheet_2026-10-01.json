@@ -1,0 +1,31 @@
+{
+  "scrape_date": "2026-10-01",
+  "target_date": "Oct 1, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-SXD5B307694",
+      "summary": {
+        "total_orders": 16,
+        "total_invoice_payment": "66463.00",
+        "order_ref_numbers": [
+          "LK-5550",
+          "LK-5551",
+          "LK-5552",
+          "LK-5553",
+          "LK-5555",
+          "LK-5556",
+          "LK-5557",
+          "LK-5558",
+          "LK-5559",
+          "LK-5560",
+          "LK-5561",
+          "LK-5563",
+          "LK-5564",
+          "LK-5565",
+          "LK-5566",
+          "LK-5567"
+        ]
+      }
+    }
+  ]
+}
