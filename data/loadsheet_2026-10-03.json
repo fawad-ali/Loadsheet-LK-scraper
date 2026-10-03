@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-10-03",
+  "target_date": "Oct 3, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-8L4B4955274",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "42645.00",
+        "order_ref_numbers": [
+          "LK-5574",
+          "LK-5575",
+          "LK-5576",
+          "LK-5577",
+          "LK-5579",
+          "LK-5580",
+          "LK-5581"
+        ]
+      }
+    }
+  ]
+}
