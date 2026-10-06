@@ -1,0 +1,37 @@
+{
+  "scrape_date": "2026-10-05",
+  "target_date": "Oct 5, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-MH9CE946390",
+      "summary": {
+        "total_orders": 22,
+        "total_invoice_payment": "127923.00",
+        "order_ref_numbers": [
+          "LK-5578",
+          "LK-5582",
+          "LK-5583",
+          "LK-5584",
+          "LK-5585",
+          "LK-5586",
+          "LK-5587",
+          "LK-5588",
+          "LK-5589",
+          "LK-5590",
+          "LK-5591",
+          "LK-5592",
+          "LK-5593",
+          "LK-5594",
+          "LK-5595",
+          "LK-5596",
+          "LK-5597",
+          "LK-5598",
+          "LK-5599",
+          "LK-5600",
+          "LK-5601",
+          "LK-5603"
+        ]
+      }
+    }
+  ]
+}
