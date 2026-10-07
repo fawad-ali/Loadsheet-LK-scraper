@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-10-06",
+  "target_date": "Oct 6, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-93VXQ561309",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "39115.00",
+        "order_ref_numbers": [
+          "LK-5604",
+          "LK-5554",
+          "LK-5602",
+          "LK-5605",
+          "LK-5606",
+          "LK-5607",
+          "LK-5608",
+          "LK-5609",
+          "LK-5610",
+          "LK-5611",
+          "LK-5612",
+          "LK-5615"
+        ]
+      }
+    }
+  ]
+}
