@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2026-10-07",
+  "target_date": "Oct 7, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-YB2UJ605065",
+      "summary": {
+        "total_orders": 6,
+        "total_invoice_payment": "23098.00",
+        "order_ref_numbers": [
+          "LK-5617",
+          "LK-5618",
+          "LK-5620",
+          "LK-5621",
+          "LK-5622",
+          "LK-5623"
+        ]
+      }
+    }
+  ]
+}
