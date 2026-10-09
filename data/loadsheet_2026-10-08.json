@@ -1,0 +1,14 @@
+{
+  "scrape_date": "2026-10-08",
+  "target_date": "Oct 8, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-0DXUE157736",
+      "summary": {
+        "total_orders": 0,
+        "total_invoice_payment": "0.00",
+        "order_ref_numbers": []
+      }
+    }
+  ]
+}
