@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-10-10",
+  "target_date": "Oct 10, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-IVE2X888692",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "75843.00",
+        "order_ref_numbers": [
+          "LK-5637",
+          "LK-5647",
+          "LK-5648",
+          "LK-5649",
+          "LK-5651",
+          "LK-5652",
+          "LK-5653",
+          "LK-5654",
+          "LK-5655",
+          "LK-5656",
+          "LK-5657",
+          "LK-5658"
+        ]
+      }
+    }
+  ]
+}
