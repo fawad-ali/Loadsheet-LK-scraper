@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-10-16",
+  "target_date": "Oct 16, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-XNQKD109631",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "30898.00",
+        "order_ref_numbers": [
+          "LK-5713",
+          "LK-5714",
+          "LK-5715",
+          "LK-5717",
+          "LK-5718",
+          "LK-5719",
+          "LK-5720",
+          "LK-5721",
+          "LK-5722",
+          "LK-5724"
+        ]
+      }
+    }
+  ]
+}
