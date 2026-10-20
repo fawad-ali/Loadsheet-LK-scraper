@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-10-20",
+  "target_date": "Oct 20, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-13K55565773",
+      "summary": {
+        "total_orders": 15,
+        "total_invoice_payment": "94979.00",
+        "order_ref_numbers": [
+          "LK-5676",
+          "LK-5749",
+          "LK-5750",
+          "LK-5751",
+          "LK-5753",
+          "LK-5755",
+          "LK-5756",
+          "LK-5757",
+          "LK-5758",
+          "LK-5759",
+          "LK-5760",
+          "LK-5761",
+          "LK-5762",
+          "LK-5763",
+          "LK-5764"
+        ]
+      }
+    }
+  ]
+}
