@@ -1,0 +1,41 @@
+{
+  "scrape_date": "2026-10-19",
+  "target_date": "Oct 19, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-VCEG9395653",
+      "summary": {
+        "total_orders": 26,
+        "total_invoice_payment": "128373.00",
+        "order_ref_numbers": [
+          "LK-5698",
+          "LK-5712",
+          "LK-5716",
+          "LK-5723",
+          "LK-5725",
+          "LK-5726",
+          "LK-5727",
+          "LK-5728",
+          "LK-5729",
+          "LK-5730",
+          "LK-5731",
+          "LK-5733",
+          "LK-5734",
+          "LK-5735",
+          "LK-5736",
+          "LK-5737",
+          "LK-5738",
+          "LK-5739",
+          "LK-5740",
+          "LK-5741",
+          "LK-5742",
+          "LK-5743",
+          "LK-5744",
+          "LK-5746",
+          "LK-5747",
+          "LK-5748"
+        ]
+      }
+    }
+  ]
+}
