@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-10-22",
+  "target_date": "Oct 22, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-I01P0354734",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "64894.00",
+        "order_ref_numbers": [
+          "LK-5700",
+          "LK-5770",
+          "LK-5771",
+          "LK-5772",
+          "LK-5773",
+          "LK-5774",
+          "LK-5775",
+          "LK-5776",
+          "LK-5777",
+          "LK-5778",
+          "LK-5779",
+          "LK-5780"
+        ]
+      }
+    }
+  ]
+}
