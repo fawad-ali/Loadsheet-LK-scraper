@@ -1,0 +1,28 @@
+{
+  "scrape_date": "2026-10-26",
+  "target_date": "Oct 26, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-PBSOL560384",
+      "summary": {
+        "total_orders": 13,
+        "total_invoice_payment": "49685.00",
+        "order_ref_numbers": [
+          "LK-5816",
+          "LK-5818",
+          "LK-5819",
+          "LK-5820",
+          "LK-5821",
+          "LK-5822",
+          "LK-5823",
+          "LK-5824",
+          "LK-5827",
+          "LK-5828",
+          "LK-5829",
+          "LK-5830",
+          "LK-5831"
+        ]
+      }
+    }
+  ]
+}
