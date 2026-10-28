@@ -1,0 +1,20 @@
+{
+  "scrape_date": "2026-10-27",
+  "target_date": "Oct 27, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-CG065266630",
+      "summary": {
+        "total_orders": 5,
+        "total_invoice_payment": "19299.00",
+        "order_ref_numbers": [
+          "LK-5832",
+          "LK-5835",
+          "LK-5836",
+          "LK-5837",
+          "LK-5838"
+        ]
+      }
+    }
+  ]
+}
