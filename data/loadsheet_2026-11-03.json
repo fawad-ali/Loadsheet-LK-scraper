@@ -1,0 +1,31 @@
+{
+  "scrape_date": "2026-11-03",
+  "target_date": "Nov 3, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-LPGOY914677",
+      "summary": {
+        "total_orders": 16,
+        "total_invoice_payment": "65323.00",
+        "order_ref_numbers": [
+          "LK-5879",
+          "LK-5880",
+          "LK-5899",
+          "LK-5903",
+          "LK-5905",
+          "LK-5906",
+          "LK-5908",
+          "LK-5909",
+          "LK-5911",
+          "LK-5912",
+          "LK-5913",
+          "LK-5914",
+          "LK-5920",
+          "LK-5921",
+          "LK-5923",
+          "LK-5925"
+        ]
+      }
+    }
+  ]
+}
