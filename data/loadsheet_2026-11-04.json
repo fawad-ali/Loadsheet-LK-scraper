@@ -1,0 +1,25 @@
+{
+  "scrape_date": "2026-11-04",
+  "target_date": "Nov 4, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-J0EJP933986",
+      "summary": {
+        "total_orders": 10,
+        "total_invoice_payment": "54302.00",
+        "order_ref_numbers": [
+          "LK-5904",
+          "LK-5922",
+          "LK-5926",
+          "LK-5927",
+          "LK-5928",
+          "LK-5929",
+          "LK-5930",
+          "LK-5931",
+          "LK-5932",
+          "LK-5934"
+        ]
+      }
+    }
+  ]
+}
