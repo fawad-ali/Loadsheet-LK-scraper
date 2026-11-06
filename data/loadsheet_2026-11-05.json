@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2026-11-05",
+  "target_date": "Nov 5, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-135U5120276",
+      "summary": {
+        "total_orders": 6,
+        "total_invoice_payment": "39632.00",
+        "order_ref_numbers": [
+          "LK-5935",
+          "LK-5938",
+          "LK-5940",
+          "LK-5941",
+          "LK-5942",
+          "LK-5943"
+        ]
+      }
+    }
+  ]
+}
