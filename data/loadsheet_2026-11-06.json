@@ -1,0 +1,23 @@
+{
+  "scrape_date": "2026-11-06",
+  "target_date": "Nov 6, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-WHNTU916599",
+      "summary": {
+        "total_orders": 8,
+        "total_invoice_payment": "34294.00",
+        "order_ref_numbers": [
+          "LK-5933",
+          "LK-5936",
+          "LK-5944",
+          "LK-5945",
+          "LK-5946",
+          "LK-5947",
+          "LK-5948",
+          "LK-5949"
+        ]
+      }
+    }
+  ]
+}
