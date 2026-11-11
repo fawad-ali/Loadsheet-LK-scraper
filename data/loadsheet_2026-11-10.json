@@ -1,0 +1,45 @@
+{
+  "scrape_date": "2026-11-10",
+  "target_date": "Nov 10, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-MNFDA278175",
+      "summary": {
+        "total_orders": 30,
+        "total_invoice_payment": "130373.00",
+        "order_ref_numbers": [
+          "LK-5953",
+          "LK-5954",
+          "LK-5955",
+          "LK-5956",
+          "LK-5957",
+          "LK-5958",
+          "LK-5959",
+          "LK-5960",
+          "LK-5961",
+          "LK-5962",
+          "LK-5963",
+          "LK-5964",
+          "LK-5965",
+          "LK-5966",
+          "LK-5967",
+          "LK-5968",
+          "LK-5969",
+          "LK-5970",
+          "LK-5971",
+          "LK-5972",
+          "LK-5973",
+          "LK-5974",
+          "LK-5976",
+          "LK-5977",
+          "LK-5978",
+          "LK-5979",
+          "LK-5980",
+          "LK-5982",
+          "LK-5983",
+          "LK-5985"
+        ]
+      }
+    }
+  ]
+}
