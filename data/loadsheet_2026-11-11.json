@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2026-11-11",
+  "target_date": "Nov 11, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-DZMWT825147",
+      "summary": {
+        "total_orders": 6,
+        "total_invoice_payment": "26097.00",
+        "order_ref_numbers": [
+          "LK-5975",
+          "LK-5986",
+          "LK-5987",
+          "LK-5988",
+          "LK-5989",
+          "LK-5990"
+        ]
+      }
+    }
+  ]
+}
