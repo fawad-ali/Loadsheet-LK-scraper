@@ -1,0 +1,22 @@
+{
+  "scrape_date": "2026-11-12",
+  "target_date": "Nov 12, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-IN2RW170188",
+      "summary": {
+        "total_orders": 7,
+        "total_invoice_payment": "43096.00",
+        "order_ref_numbers": [
+          "LK-5907",
+          "LK-5992",
+          "LK-5993",
+          "LK-5994",
+          "LK-5996",
+          "LK-5998",
+          "LK-5999"
+        ]
+      }
+    }
+  ]
+}
