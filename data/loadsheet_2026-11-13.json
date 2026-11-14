@@ -1,0 +1,26 @@
+{
+  "scrape_date": "2026-11-13",
+  "target_date": "Nov 13, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-36VB5814238",
+      "summary": {
+        "total_orders": 11,
+        "total_invoice_payment": "39278.00",
+        "order_ref_numbers": [
+          "LK-5902",
+          "LK-6001",
+          "LK-6002",
+          "LK-6003",
+          "LK-6004",
+          "LK-6005",
+          "LK-6006",
+          "LK-6007",
+          "LK-6008",
+          "LK-6009",
+          "LK-6010"
+        ]
+      }
+    }
+  ]
+}
