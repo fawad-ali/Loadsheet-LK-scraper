@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-11-14",
+  "target_date": "Nov 14, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-VB134246277",
+      "summary": {
+        "total_orders": 3,
+        "total_invoice_payment": "17700.00",
+        "order_ref_numbers": [
+          "LK-6011",
+          "LK-6013",
+          "LK-6014"
+        ]
+      }
+    }
+  ]
+}
