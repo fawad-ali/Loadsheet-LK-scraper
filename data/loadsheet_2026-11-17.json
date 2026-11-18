@@ -1,0 +1,26 @@
+{
+  "scrape_date": "2026-11-17",
+  "target_date": "Nov 17, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-RTXRG665825",
+      "summary": {
+        "total_orders": 11,
+        "total_invoice_payment": "39430.00",
+        "order_ref_numbers": [
+          "LK-6047",
+          "LK-6048",
+          "LK-6049",
+          "LK-6050",
+          "LK-6052",
+          "LK-6053",
+          "LK-6054",
+          "LK-6056",
+          "LK-6057",
+          "LK-6059",
+          "LK-6060"
+        ]
+      }
+    }
+  ]
+}
