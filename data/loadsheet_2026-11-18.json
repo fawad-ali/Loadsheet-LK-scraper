@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-11-18",
+  "target_date": "Nov 18, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-8YFMD300411",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "53265.00",
+        "order_ref_numbers": [
+          "LK-6058",
+          "LK-6061",
+          "LK-6062",
+          "LK-6066",
+          "LK-6068",
+          "LK-6069",
+          "LK-6070",
+          "LK-6071",
+          "LK-6072",
+          "LK-6073",
+          "LK-6074",
+          "LK-6075"
+        ]
+      }
+    }
+  ]
+}
