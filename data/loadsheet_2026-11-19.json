@@ -1,0 +1,31 @@
+{
+  "scrape_date": "2026-11-19",
+  "target_date": "Nov 19, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-35XCB224459",
+      "summary": {
+        "total_orders": 16,
+        "total_invoice_payment": "103571.00",
+        "order_ref_numbers": [
+          "LK-6063",
+          "LK-6067",
+          "LK-6076",
+          "LK-6077",
+          "LK-6078",
+          "LK-6079",
+          "LK-6080",
+          "LK-6081",
+          "LK-6082",
+          "LK-6083",
+          "LK-6084",
+          "LK-6085",
+          "LK-6086",
+          "LK-6087",
+          "LK-6088",
+          "LK-6089"
+        ]
+      }
+    }
+  ]
+}
