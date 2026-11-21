@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-11-20",
+  "target_date": "Nov 20, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-XAW5E963313",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "72948.00",
+        "order_ref_numbers": [
+          "LK-6091",
+          "LK-6092",
+          "LK-6093",
+          "LK-6094",
+          "LK-6095",
+          "LK-6096",
+          "LK-6097",
+          "LK-6098",
+          "LK-6099",
+          "LK-6100",
+          "LK-6101",
+          "LK-6102"
+        ]
+      }
+    }
+  ]
+}
