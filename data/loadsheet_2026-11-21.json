@@ -1,0 +1,21 @@
+{
+  "scrape_date": "2026-11-21",
+  "target_date": "Nov 21, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-QR1BU495082",
+      "summary": {
+        "total_orders": 6,
+        "total_invoice_payment": "22284.00",
+        "order_ref_numbers": [
+          "LK-6103",
+          "LK-6104",
+          "LK-6105",
+          "LK-6106",
+          "LK-6107",
+          "LK-6108"
+        ]
+      }
+    }
+  ]
+}
