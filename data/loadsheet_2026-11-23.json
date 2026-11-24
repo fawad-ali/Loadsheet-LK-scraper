@@ -1,0 +1,33 @@
+{
+  "scrape_date": "2026-11-23",
+  "target_date": "Nov 23, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-VEH3Q354957",
+      "summary": {
+        "total_orders": 18,
+        "total_invoice_payment": "48583.00",
+        "order_ref_numbers": [
+          "LK-6109",
+          "LK-6110",
+          "LK-6111",
+          "LK-6114",
+          "LK-6115",
+          "LK-6116",
+          "LK-6117",
+          "LK-6118",
+          "LK-6119",
+          "LK-6120",
+          "LK-6121",
+          "LK-6122",
+          "LK-6123",
+          "LK-6124",
+          "LK-6125",
+          "LK-6126",
+          "LK-6127",
+          "LK-6128"
+        ]
+      }
+    }
+  ]
+}
