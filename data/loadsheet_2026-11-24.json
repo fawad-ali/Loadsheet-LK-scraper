@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-11-24",
+  "target_date": "Nov 24, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-XIWVE971835",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "29897.00",
+        "order_ref_numbers": [
+          "LK-6129",
+          "LK-6130",
+          "LK-6132",
+          "LK-6133",
+          "LK-6135",
+          "LK-6136",
+          "LK-6137",
+          "LK-6138",
+          "LK-6139"
+        ]
+      }
+    }
+  ]
+}
