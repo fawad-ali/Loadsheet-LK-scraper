@@ -1,0 +1,26 @@
+{
+  "scrape_date": "2026-11-25",
+  "target_date": "Nov 25, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-WFEBM823923",
+      "summary": {
+        "total_orders": 11,
+        "total_invoice_payment": "29982.00",
+        "order_ref_numbers": [
+          "LK-6140",
+          "LK-6141",
+          "LK-6143",
+          "LK-6144",
+          "LK-6145",
+          "LK-6146",
+          "LK-6147",
+          "LK-6148",
+          "LK-6149",
+          "LK-6150",
+          "LK-6151"
+        ]
+      }
+    }
+  ]
+}
