@@ -1,0 +1,27 @@
+{
+  "scrape_date": "2026-11-26",
+  "target_date": "Nov 26, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-NWOUG714041",
+      "summary": {
+        "total_orders": 12,
+        "total_invoice_payment": "36998.00",
+        "order_ref_numbers": [
+          "LK-5973",
+          "LK-6152",
+          "LK-6153",
+          "LK-6155",
+          "LK-6156",
+          "LK-6157",
+          "LK-6158",
+          "LK-6159",
+          "LK-6160",
+          "LK-6161",
+          "LK-6162",
+          "LK-6163"
+        ]
+      }
+    }
+  ]
+}
