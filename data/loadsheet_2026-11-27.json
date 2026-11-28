@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-11-27",
+  "target_date": "Nov 27, 2026",
+  "loadsheets": [
+    {
+      "loadsheet_number": "LDS-FC7X1642912",
+      "summary": {
+        "total_orders": 9,
+        "total_invoice_payment": "65677.00",
+        "order_ref_numbers": [
+          "LK-6031",
+          "LK-6154",
+          "LK-6164",
+          "LK-6165",
+          "LK-6166",
+          "LK-6167",
+          "LK-6168",
+          "LK-6169",
+          "LK-6170"
+        ]
+      }
+    }
+  ]
+}
